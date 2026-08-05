@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "dwg2geo"]
+	path = dwg2geo
+	url = https://github.com/milkway/dwg2geo-r
 [submodule "rpic"]
 	path = rpic
 	url = https://github.com/milkway/rpic-r
